@@ -1,8 +1,8 @@
 # Hi there 👋
 
-我是 **Zhang (YzmjY)**，一名**后端 / 云原生工程师**，主攻 **Go**，专注于 **Kubernetes 调度**、可观测性与分布式系统。
+我是 **Zhang (YzmjY)**，一名**后端 / 云原生工程师**，目前在云原生领域工作，从事**云原生平台开发**、**Kubernetes 调度**、**可观测系统**开发工作。
 
-I'm **Zhang (YzmjY)**, a **Backend / Cloud-Native Engineer** working primarily in **Go**, focused on **Kubernetes scheduling**, observability, and distributed systems.
+I'm **Zhang (YzmjY)**, a **Backend / Cloud-Native Engineer** currently working in the cloud-native field, focusing on **cloud-native platform development**, **Kubernetes scheduling**, and **observability systems**.
 
 ## 🛠 技术栈 / Tech Stack
 
