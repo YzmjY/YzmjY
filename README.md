@@ -14,16 +14,3 @@ I'm **Zhang (YzmjY)**, a **Backend / Cloud-Native Engineer** working primarily i
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
-
-## 📊 GitHub 统计 / Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YzmjY&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YzmjY&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
-
-## 🔥 连续打卡 / Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YzmjY&theme=transparent&hide_border=true" alt="Commit streak" />
-</p>
